@@ -1,20 +1,21 @@
 {
-  "title": "Your Blog Name",
-  "url": "https://example.com/",
-  "description": "I am writing about my experiences as a naval navel-gazer.",
+  "title": "Nicole's JAMStack Starter Site",
+  "url": "https://laughing-panini-36fc95.netlify.app/",
+  "description": "Nicole's JAMStack Starter Site",
   "feed": {
-    "subtitle": "I am writing about my experiences as a naval navel-gazer.",
+    "subtitle": "Nicole's JAMStack Starter Site",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "id": "https://example.com/"
+    "id": "https://laughing-panini-36fc95.netlify.app/"
   },
   "jsonfeed": {
     "path": "/feed/feed.json",
-    "url": "https://example.com/feed/feed.json"
+    "url": "https://laughing-panini-36fc95.netlify.app/"
   },
   "author": {
-    "name": "Your Name Here",
-    "email": "youremailaddress@example.com",
-    "url": "https://example.com/about-me/"
+    "name": "Nicole Milloy",
+    "email": "nmilloy@hotmail.co.uk",
+    "url": "https://laughing-panini-36fc95.netlify.app/"
   }
+
 }
